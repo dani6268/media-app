@@ -24,10 +24,12 @@ This is a social media application designed to allow users to connect, share pos
 - **Backend Services Using Appwrite**: Utilizes Appwrite for database and authentication services.
 
 ## Quick Start
-### Prerequisites
-- **Git**
-- **Node.js** (v14 or later)
-- **npm**
+## Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+  
 ## Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
