@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <br />
     <a href="https://youtu.be/_W3R2VwRyF4?feature=shared" target="_blank">
@@ -762,3 +763,6 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 #
+=======
+# media-app
+>>>>>>> ed1e30dfeb11bf4fa1dc11bd13e2fd740270c6bb
