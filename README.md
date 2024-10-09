@@ -28,15 +28,17 @@ This is a social media application designed to allow users to connect, share pos
 - **Git**
 - **Node.js** (v14 or later)
 - **npm**
-### Set Up Environment Variables
--**VITE_APPWRITE_URL=**
--**VITE_APPWRITE_PROJECT_ID=**
--**VITE_APPWRITE_DATABASE_ID=**
--**VITE_APPWRITE_STORAGE_ID=**
--**VITE_APPWRITE_USER_COLLECTION_ID=**
--**VITE_APPWRITE_POST_COLLECTION_ID=**
--**VITE_APPWRITE_SAVES_COLLECTION_ID=**
+## Create a new file named `.env` in the root of your project and add the following content:
 
+```env
+VITE_APPWRITE_URL=
+VITE_APPWRITE_PROJECT_ID=
+VITE_APPWRITE_DATABASE_ID=
+VITE_APPWRITE_STORAGE_ID=
+VITE_APPWRITE_USER_COLLECTION_ID=
+VITE_APPWRITE_POST_COLLECTION_ID=
+VITE_APPWRITE_SAVES_COLLECTION_ID=
+```
 ### Installation Steps
 1. **Clone the Repository**
    ```bash
